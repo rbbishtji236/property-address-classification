@@ -2,6 +2,7 @@
 
 Classify property addresses into 5 categories using DeBERTa-v3-small.
 
+```
 property-address-classification/
 │
 ├── README.md
@@ -17,6 +18,7 @@ property-address-classification/
 │
 └── results/
     └── (generated files will be saved here)
+```
 
 ## Categories
 - flat
